@@ -34,7 +34,7 @@ const mockGames = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptate magni fugit molestias nisi omnis delenitiperferendis facere odio, minima perspiciatis quisquam voluptatem hic ratione. Odio qui tenetur porro labore.",
   },
   {
-    slug: "red-dead-redemption-2",
+    slug: "red-dead-redemption-3",
     title: "Red Dead Redemption 2",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=107&h=147&fit=crop",
@@ -43,7 +43,7 @@ const mockGames = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptate magni fugit molestias nisi omnis delenitiperferendis facere odio, minima perspiciatis quisquam voluptatem hic ratione. Odio qui tenetur porro labore.",
   },
   {
-    slug: "red-dead-redemption-2",
+    slug: "red-dead-redemption-4",
     title: "Red Dead Redemption 2",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=107&h=147&fit=crop",
@@ -52,7 +52,7 @@ const mockGames = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptate magni fugit molestias nisi omnis delenitiperferendis facere odio, minima perspiciatis quisquam voluptatem hic ratione. Odio qui tenetur porro labore.",
   },
   {
-    slug: "red-dead-redemption-2",
+    slug: "red-dead-redemption-5",
     title: "Red Dead Redemption 2",
     image:
       "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=107&h=147&fit=crop",
